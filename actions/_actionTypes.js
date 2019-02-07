@@ -1,0 +1,9 @@
+export const SELECT_MODEL = 'SELECT_MODEL';
+export const SELECT_YEAR = 'SELECT_YEAR';
+export const SELECT_CAR = 'SELECT_CAR';
+export const SET_CARS = 'SET_CARS';
+export const SET_ALL_MAKES = 'SET_ALL_MAKES';
+export const SELECT_MAKE = 'SELECT_MAKE';
+export const SET_ALL_MODELS = 'SET_ALL_MODELS';
+export const SET_ALL_YEARS = 'SET_ALL_YEARS';
+export const SET_FETCHING = 'SET_FETCHING';
